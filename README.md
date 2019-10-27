@@ -1,13 +1,15 @@
 # Searching-Algorithms-PY :: Below algorithms are implemented in python
 
-#LinearSearch
+### LinearSearch
 
-#BinarySearch
+### BinarySearch
 
-#JumpSearch
+### JumpSearch
 
-#InterpolationSearch
+### InterpolationSearch
 
-#ExponentialSearch
+### ExponentialSearch
 
-#FibonaciSearch
+### FibonaciSearch
+
+All algorithms are build by standard discription. ::)
